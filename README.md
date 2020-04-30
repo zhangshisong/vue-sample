@@ -22,10 +22,10 @@ npm run build
 npm run test:unit
 ```
 
-### Lints and fixes files
+### 查检和修复报错信息
 ```
 npm run lint
 ```
 
 ### 项目配置
-See [Configuration Reference](https://cli.vuejs.org/config/).
+前往查看 [Configuration Reference](https://cli.vuejs.org/config/).
